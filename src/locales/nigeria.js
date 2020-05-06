@@ -2,7 +2,7 @@ import numeral from 'numeral'
 // load a locale
 numeral.register('locale', 'fr', {
     delimiters: {
-        thousands: ' ',
+        thousands: ',',
         decimal: '.'
     },
     abbreviations: {
