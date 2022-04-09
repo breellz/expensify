@@ -33,7 +33,7 @@
     "history": "^4.7.2",
     "install": "^0.13.0",
     "live-server": "^1.2.1",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "node-sass": "^4.13.1",
     "normalize.css": "^8.0.1",
     "numeral": "^2.0.6",
